@@ -1,4 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+
 #main-title {
     text-align: center;
+
+}
+
+.header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 10px;
+    background: aqua;
 
 }
